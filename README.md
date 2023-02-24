@@ -7,6 +7,8 @@ My projects: <br>
 
 Adopet - https://babicila.github.io/Adopet/ <br>
 Barbearia Alura - https://babicila.github.io/BarbeariaAlura/ <br>
+Alura PLus - https://aluraplus-bay.vercel.app/
+
 
 
 
