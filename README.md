@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning Front-End
 - 📫 How to reach me babicilagrr@gmail.com
 
-My projects:
-https://babicila.github.io/BarbeariaAlura/
+My projects: <br>
+
+Adopet - https://babicila.github.io/Adopet/ <br>
+Barbearia Alura - https://babicila.github.io/BarbeariaAlura/ <br>
+
 
 
 <!---
