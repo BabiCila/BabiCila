@@ -5,8 +5,8 @@
 
 My projects: <br>
 
-Nuvi - 
-Tout Vin - https://babicila.github.io/ToutVin_v2/
+Nuvi - https://babicila.github.io/nuvi/ (with collaborator) <br>
+Tout Vin - https://babicila.github.io/ToutVin_v2/ <br>
 Adopet - https://babicila.github.io/Adopet/ <br>
 Barbearia Alura - https://babicila.github.io/BarbeariaAlura/ <br>
 Alura PLus - https://aluraplus-bay.vercel.app/
