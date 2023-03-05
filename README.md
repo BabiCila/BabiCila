@@ -5,7 +5,7 @@
 
 My projects: <br>
 
-Nuvi - https://babicila.github.io/nuvi/ (with collaborator) 
+Nuvi - https://babicila.github.io/nuvi/ (with collaborator) <br>
 Tout Vin - https://babicila.github.io/ToutVin_v2/ <br>
 Adopet - https://babicila.github.io/Adopet/ <br>
 Fruta & Fruto - https://babicila.github.io/fruta_e_fruto/ <br>
