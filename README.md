@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BabiCila
 - 👀 I’m interested in learning everthing
-- 🌱 I’m currently learning Front-End
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me babicilagrr@gmail.com
 
 My projects: <br>
