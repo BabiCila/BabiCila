@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BabiCila
-- 👀 I’m interested in learning everthing
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me babicilagrr@gmail.com
+- 👋 Hi, I’m Barbara Meira
+- 👀 I’m interested in learning ever
+- 🌱 I’m currently practicing Angular
+- 📫 How to reach me babicilagrr@gmail.com or https://www.linkedin.com/in/barbarameiraf/
 
 My projects: <br>
 
